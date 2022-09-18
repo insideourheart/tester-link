@@ -1,0 +1,17 @@
+{
+    "name": "judul-atom-io-nya-200",
+    "theme": "ui",
+    "version": "1.1.4",
+    "description": "isikan dengan deskripsi nya",
+    "keywords": [
+      "keyword 1",
+      "keyword 2",
+      "keyword 3",
+      "dan seterusnya"
+    ],
+    "repository": "https://github.com/insideourheart/tester-link",
+    "license": "MIT",
+    "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+    }
+  }
